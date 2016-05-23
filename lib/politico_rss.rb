@@ -1,5 +1,5 @@
 require "politico_rss/version"
 
-module PoliticoRss
+module PoliticoRSS
   # Your code goes here...
 end
