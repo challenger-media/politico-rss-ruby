@@ -21,7 +21,7 @@ response = PoliticoRSS.feed("playbook")
 ## Development
 
 ```` sh
-git clone ___________/politico_rss.git
+git clone git@github.com:debate-watch/politico_rss.git
 cd politico_rss/
 ````
 
