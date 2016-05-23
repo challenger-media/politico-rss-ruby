@@ -18,7 +18,7 @@ Get feed contents and metadata.
 feed = PoliticoRSS.feed("playbook")
 ````
 
-> NOTE: you can find the feed's name (e.g. `playbook`) from its URL (e.g. `http://www.politico.com/rss/playbook.xml`).
+> NOTE: you can find the feed's name (e.g. `playbook`) from its URL (e.g. `http://www.politico.com/rss/playbook.xml`). A full list of known feed names is maintained in `spec/politico_rss_spec.rb`.
 
 ## Development
 

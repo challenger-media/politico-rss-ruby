@@ -1,0 +1,181 @@
+<rss version="2.0">
+    <channel>
+        <title>On Media's Blog</title>
+        <link>http://www.politico.com/blogs/onmedia/</link>
+        <description>On Media's Blog</description>
+        <language>en-us</language>
+        <copyright>Copyright 2011 POLITICO</copyright>
+        <docs>http://www.politico.com/rss</docs>
+        <lastBuildDate>Sun, 06 Nov 2011 21:48:56 EST</lastBuildDate>
+        <image>
+            <title>politico.com</title>
+            <url>
+                http://images.politico.com/global/v2/politico_logo_new.gif
+            </url>
+            <link>http://www.politico.com</link>
+        </image>
+        <image>
+            <title>politico.com</title>
+            <url>
+                http://www2.politico.com/recordRssFeedView.cfm?feedType=On_Media_Blog
+            </url>
+            <link>http://www.politico.com/huddle</link>
+            <height>0</height>
+            <width>0</width>
+        </image>
+        <item>
+            <title>Thank you</title>
+            <description>
+                <![CDATA[
+                Thanks to all the people who helped keep this blog going.
+                ]]>
+            </description>
+            <link>
+                http://www.politico.com/blogs/onmedia/1111/_Thank_you.html
+            </link>
+            <guid isPermaLink="true">
+                http://www.politico.com/blogs/onmedia/1111/_Thank_you.html
+            </guid>
+            <author>Keach Hagey</author>
+            <pubDate>Fri, 04 Nov 2011 13:43:00 EST</pubDate>
+        </item>
+        <item>
+            <title>WaPo online advertising revenue continues to drop</title>
+            <description>
+                <![CDATA[ The company posted a $6.2 million loss. ]]>
+            </description>
+            <link>
+                http://www.politico.com/blogs/onmedia/1111/WaPo_online_advertising_revenue_continues_to_drop.html
+            </link>
+            <guid isPermaLink="true">
+                http://www.politico.com/blogs/onmedia/1111/WaPo_online_advertising_revenue_continues_to_drop.html
+            </guid>
+            <author>Keach Hagey</author>
+            <pubDate>Fri, 04 Nov 2011 12:28:53 EST</pubDate>
+        </item>
+        <item>
+            <title>Changes on the media beat</title>
+            <description>
+                <![CDATA[
+                Politico is expanding its media coverage and reshuffling its blogs.
+                ]]>
+            </description>
+            <link>
+                http://www.politico.com/blogs/onmedia/1111/Changes_on_the_media_beat.html
+            </link>
+            <guid isPermaLink="true">
+                http://www.politico.com/blogs/onmedia/1111/Changes_on_the_media_beat.html
+            </guid>
+            <author>Keach Hagey</author>
+            <pubDate>Fri, 04 Nov 2011 11:17:54 EST</pubDate>
+        </item>
+        <item>
+            <title>Remainders, 11.03.11</title>
+            <description>
+                <![CDATA[ Sam Youngman to Reuters. ]]>
+            </description>
+            <link>
+                http://www.politico.com/blogs/onmedia/1111/Remainders_110311.html
+            </link>
+            <guid isPermaLink="true">
+                http://www.politico.com/blogs/onmedia/1111/Remainders_110311.html
+            </guid>
+            <author>Keach Hagey</author>
+            <pubDate>Thu, 03 Nov 2011 18:32:37 EST</pubDate>
+        </item>
+        <item>
+            <title>Burgess Everett to POLITICO Pro</title>
+            <description>
+                <![CDATA[ Some happy housekeeping news here on the blog. ]]>
+            </description>
+            <link>
+                http://www.politico.com/blogs/onmedia/1111/Burgess_Everett_to_POLITICO_Pro.html
+            </link>
+            <guid isPermaLink="true">
+                http://www.politico.com/blogs/onmedia/1111/Burgess_Everett_to_POLITICO_Pro.html
+            </guid>
+            <author>Keach Hagey</author>
+            <pubDate>Thu, 03 Nov 2011 14:50:39 EST</pubDate>
+        </item>
+        <item>
+            <title>Chris Matthews freaks out on Forbes</title>
+            <description>
+                <![CDATA[
+                Chris Matthews does not appreciate being asked if he had a ghostwriter.
+                ]]>
+            </description>
+            <link>
+                http://www.politico.com/blogs/onmedia/1111/Chris_Matthews_freaks_out_on_Forbes.html
+            </link>
+            <guid isPermaLink="true">
+                http://www.politico.com/blogs/onmedia/1111/Chris_Matthews_freaks_out_on_Forbes.html
+            </guid>
+            <author>Keach Hagey</author>
+            <pubDate>Wed, 02 Nov 2011 15:34:00 EST</pubDate>
+        </item>
+        <item>
+            <title>ABC-WMUR to host debate Jan. 7</title>
+            <description>
+                <![CDATA[
+                ABC News announces its debate a day before NBC News's debate.
+                ]]>
+            </description>
+            <link>
+                http://www.politico.com/blogs/onmedia/1111/ABCWMUR_to_host_debate_Jan_7.html
+            </link>
+            <guid isPermaLink="true">
+                http://www.politico.com/blogs/onmedia/1111/ABCWMUR_to_host_debate_Jan_7.html
+            </guid>
+            <author>Keach Hagey</author>
+            <pubDate>Wed, 02 Nov 2011 13:56:00 EST</pubDate>
+        </item>
+        <item>
+            <title>NBC-Facebook debate set for Jan 8</title>
+            <description>
+                <![CDATA[
+                The next four network debates now have their dates set.
+                ]]>
+            </description>
+            <link>
+                http://www.politico.com/blogs/onmedia/1111/NBCFacebook_debate_set_for_Jan_8th.html
+            </link>
+            <guid isPermaLink="true">
+                http://www.politico.com/blogs/onmedia/1111/NBCFacebook_debate_set_for_Jan_8th.html
+            </guid>
+            <author>Keach Hagey</author>
+            <pubDate>Wed, 02 Nov 2011 13:28:00 EST</pubDate>
+        </item>
+        <item>
+            <title>Cornish to fill in for Norris on NPR&#x2019;s &#x201C;ATC&#x201D;</title>
+            <description>
+                <![CDATA[
+                Norris is taking a temporary break while her husband works for the Obama re-elect.
+                ]]>
+            </description>
+            <link>
+                http://www.politico.com/blogs/onmedia/1111/Cornish_to_fill_in_for_Norris_on_NPRs_ATC.html
+            </link>
+            <guid isPermaLink="true">
+                http://www.politico.com/blogs/onmedia/1111/Cornish_to_fill_in_for_Norris_on_NPRs_ATC.html
+            </guid>
+            <author>Keach Hagey</author>
+            <pubDate>Wed, 02 Nov 2011 12:55:00 EST</pubDate>
+        </item>
+        <item>
+            <title>
+                DC protesters publish &#x201C;The Occupied Washington Post&#x201D;
+            </title>
+            <description>
+                <![CDATA[ The Occupied Washington Times is not far behind. ]]>
+            </description>
+            <link>
+                http://www.politico.com/blogs/onmedia/1111/DC_protesters_publish_The_Occupied_Washington_Post.html
+            </link>
+            <guid isPermaLink="true">
+                http://www.politico.com/blogs/onmedia/1111/DC_protesters_publish_The_Occupied_Washington_Post.html
+            </guid>
+            <author>Keach Hagey</author>
+            <pubDate>Wed, 02 Nov 2011 10:20:00 EST</pubDate>
+        </item>
+    </channel>
+</rss>
