@@ -1,6 +1,6 @@
-# Politico RSS - Ruby
+# POLITICO RSS - Ruby
 
-A ruby interface to POLITICO [RSS feeds](http://www.politico.com/rss).
+A ruby interface to [POLITICO RSS feeds](http://www.politico.com/rss). Includes feed contents and metadata.
 
 ## Installation
 
@@ -12,16 +12,18 @@ gem install politico_rss
 
 ## Usage
 
-Get the name of a POLITICO [RSS feed](http://www.politico.com/rss) (e.g. `playbook`) from its URL (e.g. `http://www.politico.com/rss/playbook.xml`).
+Get feed contents and metadata.
 
 ```` rb
-response = PoliticoRSS.feed("playbook")
+feed = PoliticoRSS.feed("playbook")
 ````
+
+> NOTE: you can find the feed's name (e.g. `playbook`) from its URL (e.g. `http://www.politico.com/rss/playbook.xml`).
 
 ## Development
 
 ```` sh
-git clone git@github.com:debate-watch/politico_rss.git
+git clone git@github.com:debate-watch/politico-rss-ruby.git
 cd politico_rss/
 ````
 
@@ -29,7 +31,7 @@ After checking out the repo, run `bin/setup` to install dependencies. Then, run 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/debate-watch/politico_rss.
+Bug reports and pull requests are welcome on GitHub at https://github.com/debate-watch/politico-rss-ruby.
 
 ## Maintenance
 

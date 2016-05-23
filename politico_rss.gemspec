@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["debatewatch2016@gmail.com"]
 
   spec.summary       = %q{ A ruby interface to POLITICO RSS feeds.  }
-  spec.description   = %q{ A ruby interface to POLITICO RSS feeds. }
-  spec.homepage      = "https://github.com/debate-watch/politico_rss"
+  spec.description   = %q{ A ruby interface to POLITICO RSS feeds. Includes feed contents and metadata.}
+  spec.homepage      = "https://github.com/debate-watch/politico-rss-ruby"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
