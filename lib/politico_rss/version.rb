@@ -1,3 +1,4 @@
 module PoliticoRSS
-  VERSION = "0.1.0"
+  # Please observe semantic versioning (http://semver.org/).
+  VERSION = "1.0.0"
 end

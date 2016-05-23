@@ -5,8 +5,9 @@ require 'open-uri'
 require 'active_support/core_ext/hash/conversions' # enables .from_xml method
 require 'plissken' # enables .to_snake_keys method
 
-require 'pry'
+# A module for parsing POLITICO RSS feeds (http://www.politico.com/rss).
 module PoliticoRSS
+
   # Request information about, and contents of, a given RSS feed.
   #
   # @param [String] feed_name The name of the POLITICO RSS feed. Get this from the feed's URL.
@@ -19,7 +20,6 @@ module PoliticoRSS
     feed_url = "http://www.politico.com/rss/#{feed_name}.xml"
 
     doc = Nokogiri::XML(open(feed_url))
-
     response = Hash.from_xml(doc.to_s)
     response = response["rss"]["channel"]
     response = response.to_snake_keys # rename "pubDate" attribute to "pub_date", and rename any other camel-cased keys that might exist in the future

@@ -40,6 +40,7 @@ describe PoliticoRSS do
         expect(feed[:copyright]).to be_a(String)
         expect(pub_date).to be_a(String)
 
+        # not all feeds have an "image"...
         #expect(feed[:image]).to be_a(Hash)
         #expect(feed[:image][:title]).to be_a(String)
         #expect(feed[:image][:url]).to be_a(String)
@@ -48,8 +49,8 @@ describe PoliticoRSS do
         expect(feed[:items]).to_not be_empty
         expect(feed[:items].first[:title]).to be_a(String)
         expect(feed[:items].first[:link]).to be_a(String)
-        #expect(feed[:items].first[:description]).to be_a(String)
-        #expect(feed[:items].first[:pub_date]).to be_a(String)
+        #expect(feed[:items].first[:description]).to be_a(String) # not all items have a "description"
+        #expect(feed[:items].first[:pub_date]).to be_a(String) # not all items have a "pub_date"
         expect(feed[:items].first[:guid]).to be_a(String)
       end
     end
